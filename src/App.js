@@ -70,7 +70,7 @@ const App = ({ signOut }) => {
 
  return (
    <>
-   <h1 className="notes-app">My Notes App</h1>
+   <h1 className="notes-app"> Test App</h1>
    <View className="App">
      <View as="form" margin="3rem 0" onSubmit={createNote}>
        <div className="form-div">
